@@ -1,7 +1,8 @@
 title: Kevin Chen's Personal Website # your name (or website title) here
 logo: "https://github.com/kevinchen024/kevinchen024.github.io/blob/master/images/profilephoto.jpg?raw=true" # your photo (or logo) here
-description: Feel free to connect with me on linkedIn or follow me on instagram! > # your text below (remove <br> elements if you don't need line breaks)
-  <br>
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Feel free to connect with me on linkedIn or follow me on instagram! 
+  <br><br>
   <a href="https://www.linkedin.com/in/mengyang-chen225/">LinkedIn</a> 
   <br>
   <a href="pdf/Kevin(Mengyang Chen) Resume.pdf" class="btn btn--info">Resume</a>  
