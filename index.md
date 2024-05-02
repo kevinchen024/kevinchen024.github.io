@@ -1,6 +1,7 @@
 ## About Me
 
 I am a big fan of Man City and Boston Celtics
+Currently a junior marjoring in Finance and Supply Chain Management at Lehigh university.
 
 <!-- Upload your own photo and change the path -->
 
