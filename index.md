@@ -1,7 +1,8 @@
 ## About Me
 
-I am a big fan of Man City and Boston Celtics
-Currently a junior marjoring in Finance and Supply Chain Management at Lehigh university.
+Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University majoring in Finance and Supply Chain Management.
+
+I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goalkeeper!
 
 <!-- Upload your own photo and change the path -->
 
