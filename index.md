@@ -1,19 +1,21 @@
 ## About Me
 
-Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University majoring in Finance and Supply Chain Management.
+Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University double majoring in Finance and Supply Chain Management. I interned at London Stock Exchange Group as assitant financial analyst in Shanghai in 2023 and interned at State Street as assitant stock analyst in Boston in 2024.
 
 ---
 
 ## Hobbies
 
-I am a big fan of Manchester City and Boston Celtics, and I am also an amateur goalkeeper!
+I have been a big fan of Manchester City for 8 years and Boston Celtics for 5 years, and I am also an amateur goalkeeper!
+
 I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/20240502193655.png" width="80%">
 </p>
 
-_**[Link to this article published by Lehigh Brown and White about our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
+_**[Click here to read the article published by Lehigh Brown and White about the story of our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
+
 ---
 
 ## Portfolio
