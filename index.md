@@ -20,7 +20,7 @@ _**[SP24-FIN377-Data Science Project](report.md)**_
 
 My analysis includes parsing file paths to retrieve unique identifiers (like CIK and Accession Numbers), fetching document details from the SEC’s EDGAR database, and conducting sentiment analysis on the content of 10-K reports to gauge positive and negative discussions surrounding key topics like sales, places, and risks.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/2024-05-02 202059.png"/>
 
 ---
 
