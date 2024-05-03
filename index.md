@@ -13,7 +13,7 @@ I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
   <img class="img-circle" src="images/20240502193655.png" width="80%">
 </p>
 
-_**[Link to this article published by Lehigh Brown and White about our team!]([https://donbowen.github.io/teamproject/](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
+_**[Link to this article published by Lehigh Brown and White about our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
 ---
 
 ## Portfolio
