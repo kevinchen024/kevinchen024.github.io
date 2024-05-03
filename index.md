@@ -28,10 +28,14 @@ My analysis includes parsing file paths to retrieve unique identifiers (like CIK
 
 _**[SP24-SCM354-Penske Project](Penske Project.pdf)**_
 
-Our goal: Assess training duration (60-90 days) for optimal productivity and lower turnover.
-Evaluate training timeline variations across locations for standardization or customization.
-Analyze the link between training length and turnover to minimize attrition.
-Identify training delays by location to enhance performance and efficiency.
+My goal: 
+1. Assess training duration (60-90 days) for optimal productivity and lower turnover.
+   
+2. Evaluate training timeline variations across locations for standardization or customization.
+
+3. Analyze the link between training length and turnover to minimize attrition.
+
+4. Identify training delays by location to enhance performance and efficiency.
 
 
 <img src="images/2024-05-02 213911.png"/>
@@ -47,6 +51,8 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 ## Career Objectives
 
 Seeking to apply analytical skills and comprehensive educational background to enhance financial and operational efficiencies. Enthusiastic about using data-driven decision-making to optimize supply chain processes and financial performance.
+
+Looking to leverage expertise in streamlining supply chain operations and financial planning to boost profitability and efficiency. Committed to integrating cutting-edge technology and financial acumen to drive business growth and sustainability.
 
 ---
 
