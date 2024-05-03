@@ -113,7 +113,7 @@ return_df
 
 # 3. Result
 
-1. ![image.png](attachment:3f05d57c-21de-45ce-90cd-4bb9af92d5bc.png)
+1. ![image.png](images/2024-03-22 143747.png)
 
 
 2. ![image.png](attachment:ae1c3195-e896-40d2-b996-b0fafa91f86b.png)
