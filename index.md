@@ -2,6 +2,8 @@
 
 Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University majoring in Finance and Supply Chain Management.
 
+## Hobbies
+
 I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goalkeeper!
 
 
@@ -54,7 +56,13 @@ Sell yourself!
 
 ## Hobbies
 
-Maybe include a little about these, especially if they are the kinds of things that work well in interviews.
+I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goalkeeper!
+
+
+
+<p style="text-align:center;">
+  <img class="img-circle" src="images/20240502193655.png" width="80%">
+</p>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
