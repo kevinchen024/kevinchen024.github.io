@@ -27,7 +27,7 @@ My analysis includes parsing file paths to retrieve unique identifiers (like CIK
 
 ---
 
-_**[Supply Chain Management- Penske Project](Regression_practice)**_
+_**[SP24-SCM354-Penske Project](pdf/Penske Project.pdf)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
