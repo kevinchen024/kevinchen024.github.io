@@ -113,8 +113,7 @@ return_df
 
 # 3. Result
 
-1. ![image.png](images/2024-03-22 143747.png)
-
+1. <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 2. ![image.png](attachment:ae1c3195-e896-40d2-b996-b0fafa91f86b.png)
 
