@@ -2,16 +2,18 @@
 
 Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University majoring in Finance and Supply Chain Management.
 
+---
+
 ## Hobbies
 
-I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goalkeeper!
-
-
+I am a big fan of Manchester City and Boston Celtics, and I am also an amateur goalkeeper!
+I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/20240502193655.png" width="80%">
 </p>
 
+_**[Link to this article published by Lehigh Brown and White about our team!]([https://donbowen.github.io/teamproject/](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
 ---
 
 ## Portfolio
