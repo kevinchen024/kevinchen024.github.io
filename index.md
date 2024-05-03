@@ -66,9 +66,6 @@ I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
   <img class="img-circle" src="images/20240502193655.png" width="80%">
 </p>
 
-_**[Click here to read the article published by Lehigh Brown and White about the story of our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
+_**[Click here to read the article published by Lehigh Brown and White about the story of Lehigh Chinese Soccer Club!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
 
 ---
-
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
