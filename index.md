@@ -11,7 +11,6 @@ My emial address is: mec225@lehigh.edu!
 <p style="text-align:center;">
   <img class="img-circle" src="images/555.png" width="45%">,   <img class="img-circle" src="images/ThursdaySeptember2120231695304538.jpg" width="45%">
 </p> 
-  
 
 ---
 
@@ -41,21 +40,13 @@ Identify training delays by location to enhance performance and efficiency.
 
 _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Haven't done the final project website yet! I will update it here once we are all set!
 
 ---
 
 ## Career Objectives
 
-Write what you want. 
-
-Sell yourself!
+Seeking to apply analytical skills and comprehensive educational background to enhance financial and operational efficiencies. Enthusiastic about using data-driven decision-making to optimize supply chain processes and financial performance.
 
 ---
 
@@ -72,5 +63,6 @@ I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
 _**[Click here to read the article published by Lehigh Brown and White about the story of our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
 
 ---
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
