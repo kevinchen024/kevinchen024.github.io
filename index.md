@@ -29,9 +29,13 @@ My analysis includes parsing file paths to retrieve unique identifiers (like CIK
 
 _**[SP24-SCM354-Penske Project](Penske Project.pdf)**_
 
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
+Our goal: Assess training duration (60-90 days) for optimal productivity and lower turnover.
+Evaluate training timeline variations across locations for standardization or customization.
+Analyze the link between training length and turnover to minimize attrition.
+Identify training delays by location to enhance performance and efficiency.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+<img src="images/2024-05-02 213911.png"/>
 
 ---
 
