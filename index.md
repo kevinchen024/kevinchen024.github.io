@@ -1,8 +1,14 @@
 ## About Me
 
-Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University double majoring in Finance and Supply Chain Management. In 2023, I interned at the London Stock Exchange Group in Shanghai, China as an Assistant Financial Analyst, and in 2024, I interned at State Street in Boston, Massachusetts as an Assistant Stock Analyst. I have completed courses related to investments, global finance, corporate finance and real estate finance. My emial address is: mec225@lehigh.edu!
+Hi there! My name is Kevin Chen and I am from China! I am currently a junior at Lehigh University double majoring in Finance and Supply Chain Management. 
 
+In 2023, I interned at the London Stock Exchange Group in Shanghai, China as an Assistant Financial Analyst, and in 2024, I interned at State Street in Boston, Massachusetts as an Assistant Stock Analyst. 
 
+I have completed courses related to investments, global finance, corporate finance and real estate finance. My emial address is: mec225@lehigh.edu!
+
+<p style="text-align:center;">
+  <img class="img-circle" src="images/555.png" width="80%">
+</p>
 ---
 
 ## Hobbies
