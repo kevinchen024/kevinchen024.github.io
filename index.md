@@ -7,7 +7,7 @@ I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goa
 
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/20240502193655.png" width="50%">
+  <img class="img-circle" src="images/20240502193655.png" width="80%">
 </p>
 
 ---
