@@ -3,17 +3,17 @@
 
 @import "{{ site.theme }}";
 
-@media print, screen and (min-width: 1200px) {
+@media print, screen and (min-width: 1600px) {
   .wrapper {
-    width:1200px;
+    width:1600px;
     // left side is 270
     // 1200-270 = 930
-    // 30px free room
+    // 40px free room
     margin:0 auto;
   }
 
   section {
-    width:900px;
+    width:1200px;
     float:right;
     padding-bottom:50px;
   }
