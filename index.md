@@ -4,26 +4,14 @@ Hi there! My name is Kevin Chen and I am from China! I am currently a junior at 
 
 In 2023, I interned at the London Stock Exchange Group in Shanghai, China as an Assistant Financial Analyst, and in 2024, I interned at State Street in Boston, Massachusetts as an Assistant Stock Analyst. 
 
-I have completed courses related to investments, global finance, corporate finance and real estate finance. My emial address is: mec225@lehigh.edu!
+I have completed courses related to investments, global finance, corporate finance and real estate finance. 
+
+My emial address is: mec225@lehigh.edu!
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/555.png" width="45%">,   <img class="img-circle" src="images/ThursdaySeptember2120231695304538.jpg" width="45%">
 </p> 
   
-
----
-
-## Hobbies
-
-I have been a big fan of Manchester City for 8 years and Boston Celtics for 5 years, and I am also an amateur goalkeeper!
-
-I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
-
-<p style="text-align:center;">
-  <img class="img-circle" src="images/20240502193655.png" width="80%">
-</p>
-
-_**[Click here to read the article published by Lehigh Brown and White about the story of our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
 
 ---
 
@@ -69,13 +57,17 @@ Sell yourself!
 
 ## Hobbies
 
-I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goalkeeper!
+I have been a big fan of Manchester City for 8 years and Boston Celtics for 5 years, and I am also an amateur goalkeeper!
 
-
+I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/20240502193655.png" width="80%">
 </p>
+
+_**[Click here to read the article published by Lehigh Brown and White about the story of our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
+
+---
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
