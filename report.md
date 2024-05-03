@@ -1,3 +1,7 @@
+---
+layout: wide_default
+---    
+
 # 1. Summary Section
 
 The primary goal of my repositories and report is to automate the extraction of filing dates from 10-K documents and correlate these dates with stock returns for analysis. My analysis includes parsing file paths to retrieve unique identifiers (like CIK and Accession Numbers), fetching document details from the SEC's EDGAR database, and conducting sentiment analysis on the content of 10-K reports to gauge positive and negative discussions surrounding key topics like sales, places, and risks. This also involves processing text from 10-K reports and leveraging regex for data extraction.
