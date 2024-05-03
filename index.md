@@ -4,7 +4,7 @@ Hi there! My name is Kevin Chen and I am from China! I am currently a junior at 
 
 I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goalkeeper!
 
-<!-- Upload your own photo and change the path -->
+
 
 <p style="text-align:center;">
   <img class="img-circle" src="https://github.com/kevinchen024/kevinchen024.github.io/blob/master/images/20240502193655.jpg" width="50%">
