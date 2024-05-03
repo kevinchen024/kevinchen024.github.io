@@ -27,7 +27,7 @@ My analysis includes parsing file paths to retrieve unique identifiers (like CIK
 
 ---
 
-_**[Regression Practice](Regression_practice)**_
+_**[Supply Chain Management- Penske Project](Regression_practice)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
@@ -66,8 +66,6 @@ I've been the starting goalkeepr for Lehigh Chinese Soccer Club for two years.
 </p>
 
 _**[Click here to read the article published by Lehigh Brown and White about the story of our team!](https://thebrownandwhite.com/2023/10/06/lehigh-chinese-soccer-provides-students-a-connection-to-home/)**_ 
-
----
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
