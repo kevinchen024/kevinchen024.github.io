@@ -18,7 +18,7 @@ I am a big fan of Manchest City and Boston Celtics, and I am also an amateur goa
 
 _**[SP24-FIN377-Data Science Project](report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
+My analysis includes parsing file paths to retrieve unique identifiers (like CIK and Accession Numbers), fetching document details from the SEC’s EDGAR database, and conducting sentiment analysis on the content of 10-K reports to gauge positive and negative discussions surrounding key topics like sales, places, and risks.
 
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
