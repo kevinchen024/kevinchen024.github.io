@@ -7,7 +7,7 @@ In 2023, I interned at the London Stock Exchange Group in Shanghai, China as an 
 I have completed courses related to investments, global finance, corporate finance and real estate finance. My emial address is: mec225@lehigh.edu!
 
 <p style="text-align:center;">
-  <img class="img-circle" src="images/555.png" width="50%">,   <img class="img-circle" src="images/ThursdaySeptember2120231695304538.jpg" width="50%">
+  <img class="img-circle" src="images/555.png" width="40%">,   <img class="img-circle" src="images/ThursdaySeptember2120231695304538.jpg" width="40%">
 </p> 
   
 
