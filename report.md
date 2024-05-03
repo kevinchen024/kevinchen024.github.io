@@ -113,9 +113,9 @@ return_df
 
 # 3. Result
 
-1. <img src="images/dummy_thumbnail.jpg?raw=true"/>
+1. <img src="images/2024-03-22 143747.png"/>
 
-2. ![image.png](attachment:ae1c3195-e896-40d2-b996-b0fafa91f86b.png)
+2. <img src="images/ 2024-03-22 143248.png"/>
 
 Four Discussion Topics:
 
