@@ -8,9 +8,7 @@ I have completed courses related to investments, global finance, corporate finan
 
 <p style="text-align:center;">
   <img class="img-circle" src="images/555.png" width="35%">
-</p>
-
-<p style="text-align:center;">
+</p> <p style="text-align:center;">
   <img class="img-circle" src="images/ThursdaySeptember2120231695304538.jpg" width="35%">
 </p>
 ---
