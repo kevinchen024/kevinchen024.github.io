@@ -44,6 +44,7 @@ My goal:
 _**[SP24-FIN377-Final Project](http://localhost:8501/)**_
 
 Predictive Modeling for Optimal Capital Market Selection: A Comparative Analysis of SPACs and IPOs
+
 Research Question:
 How can we reliably determine the most suitable capital market approach between SPACs and IPOS for companies and investors, considering their long-term value implications? Particularly amidst the current surge in SPACs popularity, what indicators can accurately distinguish firms that are best suited for either a SPAC or IPO.
 
