@@ -42,7 +42,7 @@ My goal:
 
 ---
 
-_**[SP24-FIN377-FINAL Project]([https://donbowen.github.io/teamproject/](http://localhost:8501/)**_
+_**[SP24-FIN377-FINAL Project](http://localhost:8501/)**_
 
 ## Haven't done the final project website yet! I will update it here once we are all set!
 
