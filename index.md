@@ -41,7 +41,7 @@ My goal:
 
 ---
 
-_**[SP24-FIN377-Final Project]([[https://spacipoclassifier.streamlit.app/](https://spacipoclassifier.streamlit.app/)](https://github.com/ziggyfloydlee/fin377-finalproject-team12/blob/main/app.py))**_
+_**[SP24-FIN377-Final Project](https://spacipoclassifier.streamlit.app/)**_
 
 Predictive Modeling for Optimal Capital Market Selection: A Comparative Analysis of SPACs and IPOs
 
